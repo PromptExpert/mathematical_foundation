@@ -18,8 +18,6 @@
 课件推荐斯坦福大学的*Linear Algebra Review and Reference*。教材推荐《线性代数应该这样学》，这本教材没有从行列式讲起，也没有一开始就让读者陷入繁琐的矩阵计算中，而是把线性代数的思想和概念由浅入深地慢慢呈现在读者面前。*MatrixMultPractice* 是矩阵计算的练习题，*The Matrix Cookbook* 可以当做手册和工具书用。
 
 ### 微积分
-主要用于反向传播的推导。
-
 教材推荐James Stewart的 *Calculus*，*Calculus Notes* 是我从书上抄的笔记。不要看同济大学的 *《高等代数》* 了。
 
 ### 信息论
@@ -28,6 +26,6 @@
 看完南京大学的课件 *Information Theory and Decision Tree* 就够了。
 
 ### 凸优化
-这块内容不懂也没事，但是想更上一层楼一定要懂。它是研究的的最小化一个函数，像推导SVM这样的理论问题都是要凸优化知识的。
+这块内容不懂也没事，但是想更上一层楼一定要懂。它是研究的的最小化一个函数，比如SVM的推导。
 
 推荐斯坦福大学的课件 *Convex Optimization Overview*。
